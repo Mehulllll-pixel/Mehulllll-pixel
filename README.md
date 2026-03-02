@@ -13,13 +13,13 @@ I like turning complex research into clean, scalable products.
 
 ---
 
-### Fun Facts:
+### Stuff that i think is the most interesting:
 
-- 🏀 I play basketball  
-- 🎹 Grade 4 classical pianist  
-- 🧠 I’m deep into murder mysteries & conspiracy theories  
-- 🤖 I optimize models for fun  
-- 🌌 I genuinely enjoy building things from scratch  
+- I play ok basketball  
+- Grade 4 classical pianist (inspired by Your Lie in April)   
+- I’m deep into murder mysteries & conspiracy theories(yes i have seen all the episodes of buzzfeed unsolved)  
+- and yesssss I optimize models for fun  
+- I genuinely enjoy building things from scratch  
 
 ---
 
