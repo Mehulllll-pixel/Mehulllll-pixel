@@ -1,41 +1,27 @@
-# 👋 Hi, I'm Mehul Garg  
+## Hey there! 👋  
 
-### AI & ML Engineer | B.Tech CSE (AI & ML) | Manipal University Jaipur  
+I'm **Mehul**, an AI & ML engineer based in India.  
 
-I build production-ready AI systems — from research-grade models to real-world deployment.
+I build intelligent systems and deploy them into the real world.  
+If an idea pops into my head, chances are I'm already prototyping it.  
 
----
+My main stack revolves around computer vision, LLM systems, and full-stack AI.  
+I’ve worked on hyperspectral imaging at **ISRO (IIRS Dehradun)**  
+and built AI chatbot systems at **Indian Oil Corporation Ltd.**
 
-## 🚀 What I Do
-- 🧠 Computer Vision (YOLO, CNNs, OpenCV)  
-- 🛰 Hyperspectral Imaging – **ISRO (IIRS Dehradun)**  
-- 🤖 Full-Stack AI (RAG + LLMs + FastAPI + React)  
-- ⚡ Model Optimization & Deployment  
-
----
-
-## 🏢 Experience
-- 🛰 **Research Intern – ISRO (IIRS Dehradun)**  
-  Hyperspectral image processing & remote sensing research  
-
-- 🛢 **AI Intern – Indian Oil Corporation Ltd.**  
-  Built full-stack AI chatbot solutions using MERN + LLM pipelines  
+I like turning complex research into clean, scalable products.
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python, C++, Java, SQL  
-**AI/ML:** Deep Learning, YOLO, CNNs, FAISS  
-**Frameworks:** FastAPI, React, MongoDB  
-**Tools:** Git, MATLAB, Arduino  
+### Fun Facts:
+
+- 🏀 I play basketball  
+- 🎹 Grade 4 classical pianist  
+- 🧠 I’m deep into murder mysteries & conspiracy theories  
+- 🤖 I optimize models for fun  
+- 🌌 I genuinely enjoy building things from scratch  
 
 ---
 
-## 📫 Connect
-🔗 LinkedIn: https://linkedin.com/in/-mehulgarg  
-💻 GitHub: https://github.com/Mehulllll-pixel  
-📧 Email: mehul21756@gmail.com  
-
----
-
-⭐ Building intelligent systems that scale.
+If you're into AI, deep tech, or mysterious late-night ideas —  
+we'll probably get along.
