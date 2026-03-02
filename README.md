@@ -17,7 +17,7 @@ I like turning complex research into clean, scalable products.
 
 - I play ok basketball  
 - Grade 4 classical pianist (inspired by Your Lie in April)   
-- I’m deep into murder mysteries & conspiracy theories(yes i have seen all the episodes of buzzfeed unsolved)  
+- I’m deep into murder mysteries & conspiracy theories(yes i have seen all the videos of buzzfeed unsolved)  
 - and yesssss I optimize models for fun  
 - I genuinely enjoy building things from scratch  
 
