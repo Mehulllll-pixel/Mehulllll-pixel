@@ -11,7 +11,7 @@ and built AI chatbot systems at **Indian Oil Corporation Ltd.**
 
 ---
 
-### Stuff that i think is the most interesting:
+### A bit about me:
 
 - I play ok basketball  
 - Grade 4 classical pianist (inspired by Your Lie in April)   
