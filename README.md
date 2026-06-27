@@ -5,8 +5,7 @@ I'm **Mehul**, a full stack engineer.
 I build intelligent systems and deploy them into the real world.  
 If an idea pops into my head, chances are I'm already prototyping it.  
 
-I’ve worked on hyperspectral imaging at **ISRO (IIRS Dehradun)**  
-and built AI chatbot systems at **Indian Oil Corporation Ltd.**
+
 
 
 ---
