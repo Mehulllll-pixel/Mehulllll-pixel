@@ -1,4 +1,6 @@
-# Hey, I'm Mehul 👋
+# Mehul Garg
+
+Most ML projects never leave a Jupyter notebook. Mine do.
 
 AI/ML Engineer
 
