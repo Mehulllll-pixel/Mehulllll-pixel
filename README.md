@@ -1,6 +1,6 @@
 # Hey, I'm Mehul 👋
 
-AI/ML Engineer · B.Tech CS (AI & ML), Manipal University Jaipur `2023–2027`
+AI/ML Engineer
 
 I build intelligent systems that ship. If an idea shows up at midnight, I'm probably already prototyping it by morning.
 
