@@ -6,7 +6,7 @@ I build intelligent systems that ship. If an idea shows up at midnight, I'm prob
 
 ---
 
-## 🔭 Currently building
+##  Currently building
 
 **NetSense** — AI-powered fault localizer for enterprise networks.
 
