@@ -1,12 +1,12 @@
-# Mehul Garg
+# Hey, I'm Mehul 👋
 
-AI/ML Engineer 
+AI/ML Engineer · B.Tech CS (AI & ML), Manipal University Jaipur `2023–2027`
 
 I build intelligent systems that ship. If an idea shows up at midnight, I'm probably already prototyping it by morning.
 
 ---
 
-## Currently Building
+## 🔭 Currently building
 
 **NetSense** — AI-powered fault localizer for enterprise networks.
 
@@ -16,7 +16,7 @@ NetSense skips the layers. Event-driven, context-aware, tells you directly what'
 
 ---
 
-## Stack
+## 🛠️ Stack
 
     ML/AI       →  PyTorch · HuggingFace · LangChain · YOLOv8 · FAISS
     Backend     →  FastAPI · .NET 10 · ASP.NET Core
@@ -27,7 +27,7 @@ NetSense skips the layers. Event-driven, context-aware, tells you directly what'
 
 ---
 
-## Outside the Terminal
+## 🎹 Outside the terminal
 
 Grade 4 classical pianist (blame *Your Lie in April*) · Decent at basketball · All of Buzzfeed Unsolved · Optimizes models for fun — it's a problem, I won't fix it
 
