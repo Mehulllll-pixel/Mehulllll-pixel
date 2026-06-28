@@ -1,24 +1,38 @@
-## Hey there! 👋  
+# Hey, I'm Mehul 👋
 
-I'm **Mehul**, a full stack engineer.  
+AI/ML Engineer · B.Tech CS (AI & ML), Manipal University Jaipur `2023–2027`
 
-I build intelligent systems and deploy them into the real world.  
-If an idea pops into my head, chances are I'm already prototyping it.  
-
-
-
+I build intelligent systems that ship. If an idea shows up at midnight, I'm probably already prototyping it by morning.
 
 ---
 
-### A bit about me:
+## 🔭 Currently building
 
-- I play ok basketball  
-- Grade 4 classical pianist (inspired by Your Lie in April)   
-- I’m deep into murder mysteries & conspiracy theories(yes i have seen all the videos of buzzfeed unsolved)  
-- and yesssss I optimize models for fun  
-- I genuinely enjoy building things from scratch  
+**NetSense** — AI-powered fault localizer for enterprise networks.
+
+The problem: something breaks, and 10 engineers spend 45 minutes each manually checking Layer 1 → 2 → 3 → 4 → app. That's 450 minutes of wasted engineering time per incident, per enterprise.
+
+NetSense skips the layers. Event-driven, context-aware, tells you directly what's wrong.
 
 ---
 
-If you're into AI, deep tech, or mysterious late-night ideas —  
-we'll probably get along.
+## 🛠️ Stack
+
+    ML/AI       →  PyTorch · HuggingFace · LangChain · YOLOv8 · FAISS
+    Backend     →  FastAPI · .NET 10 · ASP.NET Core
+    Frontend    →  React.js
+    Databases   →  PostgreSQL · MySQL · SQL Server · Redis
+    DevOps      →  Docker · Git
+    Languages   →  Python · C# · SQL · JavaScript
+
+---
+
+## 🎹 Outside the terminal
+
+Grade 4 classical pianist (blame *Your Lie in April*) · Decent at basketball · All of Buzzfeed Unsolved · Optimizes models for fun — it's a problem, I won't fix it
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehul--garg.netlify.app-green?style=flat)](https://mehul-garg.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehulgarg-blue?style=flat&logo=linkedin)](https://linkedin.com/in/-mehulgarg)
+[![Email](https://img.shields.io/badge/Email-mehulgarg21756@gmail.com-red?style=flat&logo=gmail)](mailto:mehulgarg21756@gmail.com)
