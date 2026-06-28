@@ -1,4 +1,4 @@
-# Hey, I'm Mehul 👋
+# Mehul Garg
 
 AI/ML Engineer 
 
@@ -6,7 +6,7 @@ I build intelligent systems that ship. If an idea shows up at midnight, I'm prob
 
 ---
 
-## 🔭 Currently building
+## Currently Building
 
 **NetSense** — AI-powered fault localizer for enterprise networks.
 
@@ -16,7 +16,7 @@ NetSense skips the layers. Event-driven, context-aware, tells you directly what'
 
 ---
 
-## 🛠️ Stack
+## Stack
 
     ML/AI       →  PyTorch · HuggingFace · LangChain · YOLOv8 · FAISS
     Backend     →  FastAPI · .NET 10 · ASP.NET Core
@@ -27,7 +27,7 @@ NetSense skips the layers. Event-driven, context-aware, tells you directly what'
 
 ---
 
-## 🎹 Outside the terminal
+## Outside the Terminal
 
 Grade 4 classical pianist (blame *Your Lie in April*) · Decent at basketball · All of Buzzfeed Unsolved · Optimizes models for fun — it's a problem, I won't fix it
 
