@@ -6,7 +6,7 @@ I build intelligent systems that ship. If an idea shows up at midnight, I'm prob
 
 ---
 
-##  Currently building
+##  🛠️  Currently building
 
 **NetSense** — AI-powered fault localizer for enterprise networks.
 
@@ -16,7 +16,7 @@ NetSense skips the layers. Event-driven, context-aware, tells you directly what'
 
 ---
 
-## 🛠️ Stack
+## Stack
 
     ML/AI       →  PyTorch · HuggingFace · LangChain · YOLOv8 · FAISS
     Backend     →  FastAPI · .NET 10 · ASP.NET Core
