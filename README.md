@@ -1,22 +1,22 @@
 # Mehul Garg
 
-AI/ML Engineer
+AI Engineer
 
-Always one qs in my mind, How the hell does it work??
-
----
-
-##  🛠️  Currently building
-
-**NetSense** — AI-powered fault localizer for enterprise networks.
-
-The problem: something breaks, and 10 engineers spend 45 minutes each manually checking Layer 1 → 2 → 3 → 4 → app. That's 450 minutes of wasted engineering time per incident, per enterprise.
-
-NetSense skips the layers. Event-driven, context-aware, tells you directly what's wrong.
+Always one question in my mind: How the hell does it work?
 
 ---
 
-## Stack
+## What's keeping me awake (besides caffeine)
+
+**NetSenso** — AI-powered fault localizer for enterprise networks.
+
+So what's the problem? : something breaks, and 10 engineers spend 45 minutes each manually checking Layer 1 → 2 → 3 → 4 → app. That's 450 minutes of wasted engineering time per incident, per enterprise.
+
+NetSenso skips the layers. Event-driven, context-aware, tells you directly what's wrong.
+
+---
+
+## Im kinda good in these 
 
     ML/AI       →  PyTorch · HuggingFace · LangChain · YOLOv8 · FAISS
     Backend     →  FastAPI · .NET 10 · ASP.NET Core
@@ -27,9 +27,9 @@ NetSense skips the layers. Event-driven, context-aware, tells you directly what'
 
 ---
 
-## 🎹 Outside the terminal
+## Apparently I had hobbies once
 
-Grade 4 classical pianist (blame *Your Lie in April*) · Decent at basketball · All of Buzzfeed Unsolved · Optimizes models for fun — it's a problem, I won't fix it
+Grade 4 classical pianist (blame *Your Lie in April*) · Decent at basketball · All of Buzzfeed Unsolved · Optimizes models for fun
 
 ---
 
