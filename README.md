@@ -2,7 +2,7 @@
 
 AI/ML Engineer
 
-Always one qs in my mind, How the hell does it work?!?!
+Always one qs in my mind, How the hell does it work??
 
 ---
 
