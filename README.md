@@ -29,7 +29,7 @@ NetSenso skips the layers. Event-driven, context-aware, tells you directly what'
 
 ## Apparently I had hobbies once
 
-Grade 4 classical pianist (blame *Your Lie in April*) · Decent at basketball · All of Buzzfeed Unsolved · Optimizes models for fun
+Grade 4 classical pianist (blame *Your Lie in April*) · Decent at basketball · All of Buzzfeed Unsolved · Optimized models for fun
 
 ---
 
