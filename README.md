@@ -1,10 +1,8 @@
 # Mehul Garg
 
-Most ML projects never leave a Jupyter notebook. Mine do.
-
 AI/ML Engineer
 
-I build intelligent systems that ship. If an idea shows up at midnight, I'm probably already prototyping it by morning.
+Always one qs in my mind, How the hell does it work?!?!
 
 ---
 
