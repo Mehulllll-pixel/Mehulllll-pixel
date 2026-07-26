@@ -6,7 +6,7 @@ Always one question in my mind: How the hell does it work?
 
 ---
 
-## What's keeping me awake (besides caffeine)
+## What's keeping me awake
 
 **NetSenso** — AI-powered fault localizer for enterprise networks.
 
